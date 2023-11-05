@@ -40,7 +40,7 @@
     
   </div>
 
-  <div style="width: 30%; padding: 20px; margin: 10px; border: 1px solid #ddd; border-radius: 5px; text-align: center;">
+  <div style="width: 35%; padding: 20px; margin: 10px; border: 1px solid #ddd; border-radius: 5px; text-align: center;">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=vanhieu26" alt="vanhieu26" style="max-width: 100%; height: auto;">
     
   </div>
