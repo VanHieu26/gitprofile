@@ -1,16 +1,23 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
+![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
+
 <h1 align="center">Hi 👋, I'm Hieu</h1>
 <h3 align="center">A passionate Fullstack developer from VietNam</h3>
-<img align="right" width="400" border-radius="50%" src="https://scontent.fhan15-2.fna.fbcdn.net/v/t39.30808-6/386371705_707499157909975_8693204952844401090_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=5f2048&_nc_ohc=mbKWVIYGKpIAX8TAbFT&_nc_ht=scontent.fhan15-2.fna&oh=00_AfAL7HrpAMy3p0eIeX4leNEgBpkdeCjTkONMuC95kKAObg&oe=654C8AFE" alt="vanhieu26" />
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vanhieu26&label=Profile%20views&color=0e75b6&style=flat" alt="vanhieu26" /> </p>
 
-<p align="left"> <a href="https://twitter.com/vanhieu26" target="blank"><img src="https://img.shields.io/twitter/follow/vanhieu26?logo=twitter&style=for-the-badge" alt="vanhieu26" /></a> </p>
+<img align="right" width="200" src="https://scontent.fhan15-2.fna.fbcdn.net/v/t39.30808-6/386371705_707499157909975_8693204952844401090_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=5f2048&_nc_ohc=mbKWVIYGKpIAX8TAbFT&_nc_ht=scontent.fhan15-2.fna&oh=00_AfAL7HrpAMy3p0eIeX4leNEgBpkdeCjTkONMuC95kKAObg&oe=654C8AFE" alt="vanhieu26" />
 
-- 🌱 I’m currently learning **ReactJs and Flast**
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=vanhieu26&label=Profile%20views&color=0e75b6&style=flat" alt="vanhieu26" /> 
+</p>
 
+<p align="left"> 
+  <a href="https://twitter.com/vanhieu26" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/vanhieu26?logo=twitter&style=for-the-badge" alt="vanhieu26" />
+  </a> 
+</p>
+
+- 🌱 I’m currently learning **ReactJs and Flask**
 - 💬 Ask me about **Asp.net core**
-
-- 📫 How to reach me **trinhhieu758@gmail.com**
+- 📫 How to reach me: trinhhieu758@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
